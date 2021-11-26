@@ -1,0 +1,5 @@
+Hello! Welcome to article.txt
+This file is for testing purposes.
+These dogs are big.
+These pearls look real.
+GOOD LUCK!
